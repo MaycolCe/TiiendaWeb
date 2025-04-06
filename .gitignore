@@ -1,0 +1,20 @@
+# Carpetas generadas por Visual Studio
+.vs/
+*.user
+*.suo
+
+# Archivos de build
+bin/
+obj/
+
+# Node modules (si usas frontend con Node.js)
+node_modules/
+
+# Archivos de configuración o temporales
+*.log
+*.env
+.env.*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
